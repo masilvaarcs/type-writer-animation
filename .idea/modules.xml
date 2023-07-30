@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/efeitoTypeWriter.iml" filepath="$PROJECT_DIR$/.idea/efeitoTypeWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/typewriter_animation.iml" filepath="$PROJECT_DIR$/.idea/typewriter_animation.iml" />
     </modules>
   </component>
 </project>
