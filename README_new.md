@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Projeto: TypeWriter Animation**
 
 **Descrição:**
@@ -46,3 +47,6 @@ vermelho) à medida que for aparecendo.
 - A animação é melhor visualizada em um terminal ou prompt de comando que suporta caracteres de escape ANSI para cores.
 - O projeto pode ser personalizado para adicionar mais cores ou ajustar a velocidade da animação, se necessário. Isso
   pode ser feito alterando os valores na lista `colors` e nos dicionários de velocidades na classe `TypeWriter`.
+=======
+
+>>>>>>> cb602adb698145ae2d1d135078ffe1d291b19cea
