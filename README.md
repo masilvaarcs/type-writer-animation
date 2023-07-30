@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-**Projeto: TypeWriter Animation**
+**Projeto: Type Writer Animation**
 
 **Descrição:**
-O projeto TypeWriter Animation é um programa Python que simula uma animação de máquina de escrever, onde cada letra de
+O projeto Type Writer Animation é um programa Python que simula uma animação de máquina de escrever, onde cada letra de
 um texto é exibida em cores diferentes à medida que vai aparecendo. O texto é exibido letra por letra, alternando entre
 as cores azul e vermelho.
 
@@ -29,7 +28,7 @@ python type_writer_animation.py
 ```
 
 **Exemplo de Utilização:**
-Suponha que você tenha clonado o projeto em um diretório chamado "typewriter-animation". Ao executar o
+Suponha que você tenha clonado o projeto em um diretório chamado "type-writer-animation". Ao executar o
 comando `python type_writer_animation.py`, você verá a animação sendo exibida no terminal:
 
 ```
@@ -47,6 +46,3 @@ vermelho) à medida que for aparecendo.
 - A animação é melhor visualizada em um terminal ou prompt de comando que suporta caracteres de escape ANSI para cores.
 - O projeto pode ser personalizado para adicionar mais cores ou ajustar a velocidade da animação, se necessário. Isso
   pode ser feito alterando os valores na lista `colors` e nos dicionários de velocidades na classe `TypeWriter`.
-=======
-
->>>>>>> cb602adb698145ae2d1d135078ffe1d291b19cea
